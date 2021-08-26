@@ -2,10 +2,9 @@
 
 Track Vaccine Status of Multiple Cities at same time using CoWin API.
 
-![WhatsApp Image 2021-08-26 at 08 11 54](https://user-images.githubusercontent.com/17604957/130891616-ebd14f33-b20d-4f4f-b5e9-b4e89edd48b1.jpeg)
-![WhatsApp Image 2021-08-26 at 08 11 54 (1)](https://user-images.githubusercontent.com/17604957/130891628-9569d213-c1d2-4a4e-8857-c42bb27f337d.jpeg)
-![WhatsApp Image 2021-08-26 at 08 11 54 (2)](https://user-images.githubusercontent.com/17604957/130891633-9ad77ff7-e6ea-428f-ac27-60ffa6efef63.jpeg)
-
+<img src="https://user-images.githubusercontent.com/17604957/130891616-ebd14f33-b20d-4f4f-b5e9-b4e89edd48b1.jpeg" width="300" height="650">
+<img src="https://user-images.githubusercontent.com/17604957/130891628-9569d213-c1d2-4a4e-8857-c42bb27f337d.jpeg" width="300" height="650">
+<img src="https://user-images.githubusercontent.com/17604957/130891633-9ad77ff7-e6ea-428f-ac27-60ffa6efef63.jpeg" width="300" height="650">
 
 ## Getting Started
 
