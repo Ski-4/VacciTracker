@@ -1,6 +1,6 @@
 # VacciTracker
 
-Track Vaccine Status of Multiple Cities at same time using CoWin API.
+Track Vaccine Status of Multiple Cities at same time using CoWin API and store cities preference using SQLite Database 
 
 <img src="https://user-images.githubusercontent.com/17604957/130891616-ebd14f33-b20d-4f4f-b5e9-b4e89edd48b1.jpeg" width="300" height="650">
 <img src="https://user-images.githubusercontent.com/17604957/130891628-9569d213-c1d2-4a4e-8857-c42bb27f337d.jpeg" width="300" height="650">
